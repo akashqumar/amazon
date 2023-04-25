@@ -1,5 +1,5 @@
 # amazon
 
 for firebase to fire
-mpx firebase login
+npx firebase login
 firebase emulators:start
